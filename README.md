@@ -4,7 +4,7 @@
 ---
 
 Introduction to LaTeX
-Presentation 
+ 
 
 
   <a href="https://www.latex-project.org/">
