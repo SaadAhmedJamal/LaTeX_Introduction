@@ -3,7 +3,7 @@
 
 ---
 
-###<b>Introduction to LaTeX</b>
+### <b>Introduction to LaTeX</b>
  
 
 References:
